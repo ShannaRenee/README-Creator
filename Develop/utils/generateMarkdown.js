@@ -109,7 +109,7 @@ ${checkIfApplicable(data.tests)}
 ## Questions
 You can check out my GitHub Profile at:
 https://github.com/${data.username}<br>
-If you have any additonal questions you can email me at:
+If you have any additional questions you can email me at:
 ${data.email}
 `;
 }

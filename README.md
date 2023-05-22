@@ -34,5 +34,5 @@ n/a
 ## Questions
 You can check out my GitHub Profile at:
 https://github.com/ShannaRenee<br>
-If you have any additonal questions you can email me at:
+If you have any additional questions you can email me at:
 shanna.renee.morris@gmail.com
