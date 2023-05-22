@@ -1,9 +1,9 @@
-# saf
+# Super Cool App
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-asdfa
+This is my super cool app I hope you love it
 
 ## Table of Contents
 [Installation](#installation)<br>
@@ -14,14 +14,14 @@ asdfa
 [Questions](#questions)
 
 ## Installation
-n/a
+just download it
 
 ## Usage
 n/a
 
 ## License
-This project is covered under Apache 2.0.<br>
-https://www.apache.org/licenses/LICENSE-2.0
+This project is covered under MIT License.<br>
+https://opensource.org/licenses/MIT
 
 ## Contributing
 n/a
@@ -31,6 +31,6 @@ n/a
 
 ## Questions
 You can check out my Github Profile at:
-https://github.com/asd<br>
+https://github.com/shannarenee<br>
 If you have any additonal questions you can email me at:
-asdf
+shanna.renee.morris@gmail.com

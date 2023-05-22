@@ -27,9 +27,9 @@ function renderLicenseBadge(license) {
   return '[![License](https://img.shields.io/badge/License-LGPL_v2.1-blue)](#license)';
   } else if (license === 'Mozilla Public License 2.0') {
   return '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)';
-  } else (license === 'The Unlicense') {
+  } else if (license === 'The Unlicense') {
   return '[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)';
-}}
+}};
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -60,7 +60,7 @@ if (license === 'None') {
   return 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html';
   } else if (license === 'Mozilla Public License 2.0') {
   return 'https://opensource.org/licenses/MPL-2.0';
-  } else (license === 'The Unlicense') {
+  } else if (license === 'The Unlicense') {
   return 'http://unlicense.org/';
 }
 }
@@ -68,6 +68,8 @@ if (license === 'None') {
 function checkIfApplicable(data) {
   if (data === '') {
     return 'n/a';
+  } else {
+    return data;
   }
 }
 
@@ -105,7 +107,7 @@ ${checkIfApplicable(data.contributing)}
 ${checkIfApplicable(data.tests)}
 
 ## Questions
-You can check out my Github Profile at:
+You can check out my GitHub Profile at:
 https://github.com/${data.username}<br>
 If you have any additonal questions you can email me at:
 ${data.email}
